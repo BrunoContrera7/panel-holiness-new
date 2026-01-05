@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+
+html {
+  scroll-behavior: smooth;
+  background-color: #dcdcdc;
+  font-family: 'Geist', sans-serif;
+}
