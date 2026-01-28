@@ -654,7 +654,6 @@
         "stock": 1,
         "genero": "Mujer",
         "imagenes": [
-<<<<<<< HEAD
             "\/images\/yara-elixir-img1.webp",
             "\/images\/yara-elixir-img2.webp"
         ]
@@ -682,10 +681,173 @@
             "\/images\/durrat-al-aroos-img1.webp",
             "\/images\/durrat-al-aroos-img2.webp"
         ]
-=======
-            "/images/yara-elixir-img1.webp",
-            "/images/yara-elixir-img2.webp"
-            ]
->>>>>>> parent of 2631e87 (7mo commit)
+    },
+    {
+        "id": 58,
+        "nombre": "Die Die",
+        "descripcion": "adasdasdasdd",
+        "precio": 12313,
+        "stock": 1,
+        "genero": "Masculino",
+        "imagenes": [
+            "\/images\/die-die-img1.webp",
+            "\/images\/die-die-img2.webp"
+        ]
+    },
+    {
+        "id": 59,
+        "nombre": "Aqua de Armaf",
+        "descripcion": "Las Notas de Salida son naranja, toronja (pomelo) y abrótano. Las Notas de Corazón son menta y lavanda. Las Notas de Fondo son ambroxan, ciprés y pachulí.",
+        "precio": 82000,
+        "stock": 1,
+        "genero": "Masculino",
+        "imagenes": [
+            "\/images\/aqua-de-armaf-img1.webp",
+            "\/images\/aqua-de-armaf-img2.webp"
+        ]
+    },
+    {
+        "id": 60,
+        "nombre": "Pisa de Lattafa",
+        "descripcion": "Las Notas de Salida son mandarina, limón (lima ácida) y bergamota. La Nota de Corazón es cedro. Las Notas de Fondo son sándalo y ámbar.",
+        "precio": 88000,
+        "stock": 1,
+        "genero": "Masculino",
+        "imagenes": [
+            "\/images\/pisa-de-lattafa-img1.webp",
+            "\/images\/pisa-de-lattafa-img2.webp"
+        ]
+    },
+    {
+        "id": 61,
+        "nombre": "Philos Pura",
+        "descripcion": "Las Notas de Salida son bergamota, naranja y limón (lima ácida). Las Nota de Corazón es frutas. Las Notas de Fondo son almizcle blanco, vainilla de Madagascar y ámbar.",
+        "precio": 70000,
+        "stock": 1,
+        "genero": "Unisex",
+        "imagenes": [
+            "\/images\/philos-pura-img1.webp",
+            "\/images\/philos-pura-img2.webp"
+        ]
+    },
+    {
+        "id": 62,
+        "nombre": "Luxe Nightlife",
+        "descripcion": "Las notas de salida son gardenia, clavel y jazmín – un inicio floral, fresco y refinado. Las notas de corazón son patchouli, acordes florales, sándalo y notas marinas – equilibrio entre lo floral, lo herbal y lo místico. Las Notas de fondo son caramelo y café – una base cálida, dulce y adictiva que deja huella.",
+        "precio": 70000,
+        "stock": 1,
+        "genero": "Unisex",
+        "imagenes": [
+            "\/images\/luxe-nightlife-img1.webp",
+            "\/images\/luxe-nightlife-img2.webp"
+        ]
+    },
+    {
+        "id": 63,
+        "nombre": "Tonic Malt",
+        "descripcion": "Las Notas de Salida son lavanda, cardamomo y menta. Las Notas de Corazón son flor de azahar del naranjo, esclarea y romero. Las Notas de Fondo son haba tonka, benjuí y cacao.",
+        "precio": 65000,
+        "stock": 1,
+        "genero": "Hombre",
+        "imagenes": [
+            "\/images\/tonic-malt-img1.webp",
+            "\/images\/tonic-malt-img2.webp"
+        ]
+    },
+    {
+        "id": 65,
+        "nombre": "Infini Intoxicating",
+        "descripcion": "Las notas de salida son cerezas, pimienta rosa, pimienta negra. Las notas medias son coñac, hedión. Las notas de fondo son tabaco, vainilla. ",
+        "precio": 60000,
+        "stock": 1,
+        "genero": "Unisex",
+        "imagenes": [
+            "\/images\/infini-intoxicating-img1.webp",
+            "\/images\/infini-intoxicating-img2.webp"
+        ]
+    },
+    {
+        "id": 66,
+        "nombre": "Emaan de Lataffa",
+        "descripcion": "Las Notas de Salida son flor de azahar del naranjo, bergamota y grosellas negras. Las Notas de Corazón son nardos, jazmín y caléndula. Las Notas de Fondo son almizcle, vainilla, cedro y pachulí.",
+        "precio": 72000,
+        "stock": 1,
+        "genero": "Femenino",
+        "imagenes": [
+            "\/images\/emaan-de-lataffa-img1.webp",
+            "\/images\/emaan-de-lataffa-img2.webp"
+        ]
+    },
+    {
+        "id": 67,
+        "nombre": "Qimmah de Lataffa",
+        "descripcion": "Las Notas de Salida son almendra y café. Las Notas de Corazón son jazmín, nardos y haba tonka. Las Notas de Fondo son vainilla, cacao y sándalo.",
+        "precio": 75000,
+        "stock": 1,
+        "genero": "Femenino",
+        "imagenes": [
+            "\/images\/qimmah-de-lataffa-img1.webp",
+            "\/images\/qimmah-de-lataffa-img2.webp"
+        ]
+    },
+    {
+        "id": 68,
+        "nombre": "Prodigy de Paris Corner",
+        "descripcion": "Las Notas de Salida son canela, manzana verde y naranja. Las Notas de Corazón son ámbar, flores blancas y esclarea. Las Notas de Fondo son vainilla, Amberwood, haba tonka y almizcle.",
+        "precio": 95000,
+        "stock": 1,
+        "genero": "Unisex",
+        "imagenes": [
+            "\/images\/prodigy-de-paris-corner-img1.webp",
+            "\/images\/prodigy-de-paris-corner-img2.webp"
+        ]
+    },
+    {
+        "id": 69,
+        "nombre": "Pure Crystal de Lataffa",
+        "descripcion": "Las Notas de Salida son bayas rojas, canela, naranja amarga, toronja (pomelo) y bergamota. Las Notas de Corazón son coñac, jengibre y esclarea. Las Notas de Fondo son ámbar, sándalo, vainilla, almizcle, pachulí, cardamomo y vetiver.",
+        "precio": 88000,
+        "stock": 1,
+        "genero": "Unisex",
+        "imagenes": [
+            "\/images\/pure-crystal-de-lataffa-img1.webp",
+            "\/images\/pure-crystal-de-lataffa-img2.webp"
+        ]
+    },
+    {
+        "id": 70,
+        "nombre": "Fakhar Gold de Lataffa",
+        "descripcion": "Las Notas de Salida son cardamomo, toronja (pomelo) y pimienta rosa. Las Notas de Corazón son nardos, notas solares y abrótano. Las Notas de Fondo son ámbar, cachemira, ládano y cuero.",
+        "precio": 75000,
+        "stock": 1,
+        "genero": "Masculino",
+        "imagenes": [
+            "\/images\/fakhar-gold-de-lataffa-img1.webp",
+            "\/images\/fakhar-gold-de-lataffa-img2.webp"
+        ]
+    },
+    {
+        "id": 71,
+        "nombre": "Nardo Red de Rave",
+        "descripcion": "Las Notas de Salida son manzana, lavanda y bergamota. Las Notas de Corazón son sandía, cedro y cálamo aromático. Las Notas de Fondo son ámbar, sándalo y pachulí.",
+        "precio": 70000,
+        "stock": 1,
+        "genero": "Unisex",
+        "imagenes": [
+            "\/images\/nardo-red-de-rave-img1.webp",
+            "\/images\/nardo-red-de-rave-img2.webp"
+        ]
+    },
+    {
+        "id": 72,
+        "nombre": "Jasoor de Lataffa",
+        "descripcion": "Las Notas de Salida son manzana, cardamomo y bergamota. Las Notas de Corazón son tabaco, lavanda y geranio. Las Notas de Fondo son haba tonka, cuero, vetiver y pachulí.",
+        "precio": 79000,
+        "stock": 1,
+        "genero": "Unisex",
+        "imagenes": [
+            "\/images\/jasoor-de-lataffa-img1.webp",
+            "\/images\/jasoor-de-lataffa-img2.webp"
+        ]
     }
 ]
