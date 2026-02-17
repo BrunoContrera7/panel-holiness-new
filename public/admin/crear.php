@@ -180,8 +180,8 @@ require 'auth.php';
         <label>Género</label>
         <select name="genero" required>
             <option value="">Seleccionar</option>
-            <option value="Masculino">Masculino</option>
-            <option value="Femenino">Femenino</option>
+            <option value="Hombre">Hombre</option>
+            <option value="Mujer">Mujer</option>
             <option value="Unisex">Unisex</option>
         </select>
 

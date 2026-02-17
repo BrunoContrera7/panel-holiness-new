@@ -269,12 +269,12 @@ button:hover {
             </div>
 
             <label>Imagen 1</label>
-            <img src="/copia-panel-holiness/public<?= $producto['imagenes'][0] ?>" class="preview">
+            <img src="/panel-holiness-new/public<?= $producto['imagenes'][0] ?>" class="preview">
             <input type="file" name="imagen1" accept="image/*">
 
             <?php if (isset($producto['imagenes'][1])): ?>
                 <label style="margin-top:20px;">Imagen 2</label>
-                <img src="/copia-panel-holiness/public<?= $producto['imagenes'][1] ?>" class="preview">
+                <img src="/panel-holiness-new/public<?= $producto['imagenes'][1] ?>" class="preview">
                 <input type="file" name="imagen2" accept="image/*">
             <?php endif; ?>
 
