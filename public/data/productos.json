@@ -849,5 +849,77 @@
             "\/images\/bad-femme-de-maison-alhambra-img1.webp",
             "\/images\/bad-femme-de-maison-alhambra-img2.webp"
         ]
+    },
+    {
+        "id": 72,
+        "nombre": "Odyssey Bahamas",
+        "descripcion": "Las Notas de Salida son Melón cantalupo, melón, Algas, sal, manzana Granny Smith, pera y ciruela. Las Notas de Corazón son Notas acuáticas, nenúfar (lirio de agua), musgo de roble y Incienso. Las Notas de Fondo son almizcle, cedro, ámbar y azúcar.",
+        "precio": 88000,
+        "stock": 1,
+        "genero": "Unisex",
+        "imagenes": [
+            "\/images\/odyssey-bahamas-img1.webp",
+            "\/images\/odyssey-bahamas-img2.webp"
+        ]
+    },
+    {
+        "id": 73,
+        "nombre": "Rome Paradox",
+        "descripcion": "Las Notas de Salida son pera, naranja tangerina y bergamota. Las Notas de Corazón son flor de azahar del naranjo, esencia de neroli, neroli y jazmín sambac (sampaguita). Las Notas de Fondo son vainilla Bourbon, ámbar, almizcle blanco y benjuí.",
+        "precio": 78000,
+        "stock": 1,
+        "genero": "Mujer",
+        "imagenes": [
+            "\/images\/rome-paradox-img1.webp",
+            "\/images\/rome-paradox-img2.webp"
+        ]
+    },
+    {
+        "id": 74,
+        "nombre": "Hayaa de Lattafa",
+        "descripcion": "Las Notas de Salida son champaña, fresa, naranja tangerina, naranja sanguina y rosa. Las Notas de Corazón son gardenia, jazmín y orquídea de vainilla. Las Notas de Fondo son ámbar, sándalo y castaña.",
+        "precio": 72000,
+        "stock": 1,
+        "genero": "Mujer",
+        "imagenes": [
+            "\/images\/hayaa-de-lattafa-img1.webp",
+            "\/images\/hayaa-de-lattafa-img2.webp"
+        ]
+    },
+    {
+        "id": 76,
+        "nombre": "Checkmate King",
+        "descripcion": "Las Notas de Salida son ciruela Mirabel y notas afrutadas. Las Notas de Corazón son castaña, Acorde goloso y especias. Las Notas de Fondo son sándalo, ámbar, notas atalcadas y Notas balsámicas.",
+        "precio": 85000,
+        "stock": 1,
+        "genero": "Hombre",
+        "imagenes": [
+            "\/images\/checkmate-king-img1.webp",
+            "\/images\/checkmate-king-img2.webp"
+        ]
+    },
+    {
+        "id": 77,
+        "nombre": "Bharara Chocolate",
+        "descripcion": "Las notas de salida son; bergamota, canela y cardamomo, un corazón intenso de praliné, coñac y tuberosa, y una base seductora de vainilla, haba tonka, almizcle y oud.",
+        "precio": 95000,
+        "stock": 1,
+        "genero": "Unisex",
+        "imagenes": [
+            "\/images\/bharara-chocolate-img1.webp",
+            "\/images\/bharara-chocolate-img2.webp"
+        ]
+    },
+    {
+        "id": 78,
+        "nombre": "Musamam Black Intense",
+        "descripcion": "Las Notas de Salida son lavanda, nuez moscada, salvia y bergamota. Las Notas de Corazón son cedro, geranio, Rosyfolia y Mahonial. Las Notas de Fondo son Cocoapulse™, haba tonka, arce, Ambrofix™ y pachulí.",
+        "precio": 88000,
+        "stock": 1,
+        "genero": "Unisex",
+        "imagenes": [
+            "\/images\/musamam-black-intense-img1.webp",
+            "\/images\/musamam-black-intense-img2.webp"
+        ]
     }
 ]
