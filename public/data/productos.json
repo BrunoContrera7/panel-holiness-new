@@ -921,5 +921,53 @@
             "\/images\/musamam-black-intense-img1.webp",
             "\/images\/musamam-black-intense-img2.webp"
         ]
+    },
+    {
+        "id": 79,
+        "nombre": "Exclusif Oud",
+        "descripcion": "Las Notas de Salida son azafrán, cardamomo, pimienta negra y bergamota. Las Notas de Corazón son madera de oud, rosa, cuero y jazmín. Las Notas de Fondo son ámbar, sándalo, vetiver y pachulí.",
+        "precio": 0,
+        "stock": 1,
+        "genero": "Unisex",
+        "imagenes": [
+            "\/images\/exclusif-oud-img1.webp",
+            "\/images\/exclusif-oud-img2.webp"
+        ]
+    },
+    {
+        "id": 80,
+        "nombre": "Hawas Tropical",
+        "descripcion": "Las Notas de Salida son Agua de coco, hojas de higuera y jengibre. Las Notas de Corazón son coco, higo y menta. Las Notas de Fondo son sándalo, haba tonka y almizcle.",
+        "precio": 0,
+        "stock": 1,
+        "genero": "Hombre",
+        "imagenes": [
+            "\/images\/hawas-tropical-img1.webp",
+            "\/images\/hawas-tropical-img2.webp"
+        ]
+    },
+    {
+        "id": 81,
+        "nombre": "Liquid Brun EDICION LIMITADA",
+        "descripcion": "Las Notas de Salida son cardamomo, lavanda y cítricos. Las Notas de Corazón son flor de azahar del naranjo, madera de gaiac y rosa. Las Notas de Fondo son vainilla, ámbar, haba tonka y musgo de roble.",
+        "precio": 0,
+        "stock": 1,
+        "genero": "Unisex",
+        "imagenes": [
+            "\/images\/liquid-brun-edicion-limitada-img1.webp",
+            "\/images\/liquid-brun-edicion-limitada-img2.webp"
+        ]
+    },
+    {
+        "id": 82,
+        "nombre": "The Kingdom de Lattafa",
+        "descripcion": "Las Notas de Salida son lavanda, menta y salvia. Las Notas de Corazón son vainilla, tabaco y flor de azahar del naranja. Las Notas de Fondo son haba tonka, benjuí y ládano.",
+        "precio": 0,
+        "stock": 1,
+        "genero": "Hombre",
+        "imagenes": [
+            "\/images\/the-kingdom-de-lattafa-img1.webp",
+            "\/images\/the-kingdom-de-lattafa-img2.webp"
+        ]
     }
 ]
